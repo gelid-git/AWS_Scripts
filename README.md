@@ -4,7 +4,8 @@ Displays the Region, Instance Name, Instanec Id, Instance State, and the name of
 
 Sample output from running the script.
 
-<img align="left" src="images/describe_ec2_example.PNG"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>SSample content of the CSV file.                                                                          
+<img align="left" src="images/describe_ec2_example.PNG"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+Sample content of the CSV file.                                                                          
 <img align="left" src="images/describe_ec2_output.PNG">
 
 
