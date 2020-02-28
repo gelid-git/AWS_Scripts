@@ -4,6 +4,6 @@ Displays the Region, Instance Name, Instanec Id, Instance State, and the name of
 
 Sample output from running the script.
 
-<img align="left" src="images/describe_ec2_example.PNG">
+<img align="left" src="images/describe_ec2_example.PNG"><br/>
 
 test1
