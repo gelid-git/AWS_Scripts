@@ -6,4 +6,4 @@ Sample output from running the script.
 
 <img align="left" src="images/describe_ec2_example.PNG"><br/>
 
-test1
+test1  
