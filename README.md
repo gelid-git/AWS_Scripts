@@ -3,8 +3,8 @@ Displays the Region, Instance Name, Instanec Id, Instance State, and the name of
 
 
 Sample output from running the script.
-<img src="images/describe_ec2_example.PNG">
-<br>
+<img align="left" src="images/describe_ec2_example.PNG">
+
 
 
 
@@ -14,4 +14,4 @@ Sample output from running the script.
 
 
 <p>Sample of the CSV contents.<p>
-<img src="images/describe_ec2_output.PNG">
+<img align="left" src="images/describe_ec2_output.PNG">
