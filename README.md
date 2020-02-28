@@ -9,5 +9,8 @@ Sample output from running the script.
 
 
 
+
+
+
 Sample of the CSV contents.
 ![](images/describe_ec2_output.PNG)
