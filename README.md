@@ -14,6 +14,6 @@ Sample output from running the script.
 
 
 
-<p>Sample of the CSV contents.<p>
+Sample of the CSV contents.
   
 <img align="left" src="images/describe_ec2_output.PNG">
